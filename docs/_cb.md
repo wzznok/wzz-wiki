@@ -1,6 +1,6 @@
 <!-- docs/_cb.md -->
 
- - [主页](/README.md)
+ - [主页](/home.md)
  - [C++笔记](/md/C++.md)
     - [基础](/md/C++.md?id=基础)  
         - [O2优化](/md/C++.md?id=优化2)  
